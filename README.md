@@ -51,6 +51,7 @@ green-interest-forecast/
 │   └── Green Interest Forecast Report.docx
 │
 └── green interest forecast.Rproj
+```
 Data
 
 The project uses Google search interest data related to the search term "electric car."
